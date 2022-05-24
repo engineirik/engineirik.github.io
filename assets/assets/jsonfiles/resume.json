@@ -1,0 +1,157 @@
+{
+    "qualifications": [
+        {
+            "id": "p1",
+            "name": "Qualification",
+            "description": "I'm a hard working young man with a goal of personal and professional development. I consider myself polite and social. a positive person with a good mood. I like to take responsibility, i'm honest and conscientious.",
+            "time": ""
+        }
+    ],
+    "work": [
+        {
+            "id": "p2",
+            "name": "Emerson Automation Solutions",
+            "description": "System Engineer",
+            "time": "2020 - Present"
+        },
+        {
+            "id": "p3",
+            "name": "Yara Norge AS",
+            "description": "Summer Internship - System Engineer",
+            "time": "2019 & 2020"
+        },
+        {
+            "id": "p4",
+            "name": "GK Inneklima AS",
+            "description": "Project Engineer",
+            "time": "2016 - 2017"
+        },
+        {
+            "id": "p5",
+            "name": "GK Inneklima AS",
+            "description": "Coordinator EPC (Energi Performance Contracting)",
+            "time": "2016"
+        },
+        {
+            "id": "p6",
+            "name": "Equinor ASA",
+            "description": "Automation Technician Apprenticeship, Offshore Troll B",
+            "time": "2014 - 2016"
+        },
+        {
+            "id": "p7",
+            "name": "Hunstad AS",
+            "description": "Appartment Renovation, free periodes from main job",
+            "time": "2015"
+        },
+        {
+            "id": "p8",
+            "name": "Java Coffeeshop",
+            "description": "Barista / Waiter, free time from school and work",
+            "time": "2013 - 2015"
+        },
+        {
+            "id": "p9",
+            "name": "Dagbladet",
+            "description": "Paperboy, weekends",
+            "time": "2009"
+        }
+    ],
+    "education": [
+        {
+            "id": "p10",
+            "name": "Master of Science in Industrial IT and Automation",
+            "description": "University of South-Eastern Norway - Grade: B",
+            "time": "2020 - Present"
+        },
+        {
+            "id": "p11",
+            "name": "Bachelor of Science in Informatics and Automation",
+            "description": "University of South-Eastern Norway - Grade: B",
+            "time": "2017 - 2020"
+        },
+        {
+            "id": "p12",
+            "name": "Certified Automation Technician",
+            "description": "Equinor ASA, Offshore Troll B - Grade: BM",
+            "time": "2014 - 2016"
+        },
+        {
+            "id": "p13",
+            "name": "Automation VG1 - VG3",
+            "description": "Bodin High School and Maritime Technical Academy - Grade: 5.3",
+            "time": "2011 - 2014"
+        }
+    ],
+    "certificates": [
+        {
+            "id": "p14",
+            "name": "Responsive Web Design",
+            "description": "freeCodeCamp",
+            "time": "2021"
+        },
+        {
+            "id": "p15",
+            "name": "DeltaV 7425",
+            "description": "DeltaV Advanced Live Training",
+            "time": "2021"
+        },
+        {
+            "id": "p16",
+            "name": "DeltaV 7409",
+            "description": "DeltaV Training",
+            "time": "2021"
+        },
+        {
+            "id": "p17",
+            "name": "FSE - First Aid",
+            "description": "Low and High Voltage + First Aid + Offshore",
+            "time": "2020"
+        },
+        {
+            "id": "p18",
+            "name": "EX and EXi",
+            "description": "Basic training",
+            "time": "2016 - 2020"
+        },
+        {
+            "id": "p19",
+            "name": "Fittings and Smalbore Tubing",
+            "description": "OLF120 basic training",
+            "time": "2015 - 2019"
+        },
+        {
+            "id": "p20",
+            "name": "GSK",
+            "description": "Basic training, Oil and Gas safetycourse",
+            "time": "2014 - 2018"
+        }
+    ],
+    "duty": [
+        {
+            "id": "p21",
+            "name": "Class Representative",
+            "description": "M.S IIA - Industry Masterclass",
+            "time": "2020 - Present"
+        },
+        {
+            "id": "p22",
+            "name": "Co-Class Representative",
+            "description": "B.Sc IA - Y-veien Bachelorclass",
+            "time": "2018-2020"
+        },
+        {
+            "id": "p23",
+            "name": "Student Assistant EE1212",
+            "description": "B.Sc IA - Object-Oriented Programming and Databases",
+            "time": "2018-2019"
+        },
+        {
+            "id": "p24",
+            "name": "Board Member",
+            "description": "Board Member Aktivt ROM AS",
+            "time": "2017 - Present"
+        }
+    ]
+
+}
