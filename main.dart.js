@@ -38549,7 +38549,7 @@ $0(){return A.SS(this.a.e)},
 $S:0}
 A.GR.prototype={
 E(a,b){var s=null
-return A.fN(A.a([A.lh(new A.b7(B.AM,new A.l5(A.cJ(A.V6(A.fs(5),A.ahy("assets/images/profile/engineirik_resume_large.jpg",B.dG,s,s),B.bi),325,s),new A.Z8(),s),s))],t.p),B.H,B.F,B.z)}}
+return A.fN(A.a([A.lh(new A.b7(B.AM,new A.l5(A.cJ(A.V6(A.fs(5),A.ahy("assets/images/profile/engineirik_resume_large2.jpg",B.dG,s,s),B.bi),325,s),new A.Z8(),s),s))],t.p),B.H,B.F,B.z)}}
 A.Z8.prototype={
 $0(){return A.SS("https://ungeutviklere.com/")},
 $S:0}
@@ -71555,7 +71555,7 @@ B.wx=new A.a5(0,1/0,56,56)
 B.cH=new A.a5(0,1/0,0,1/0)
 B.wz=new A.a5(50,1/0,0,1/0)
 B.wA=new A.a5(48,1/0,48,1/0)
-B.wb=new A.ps("assets/images/profile/img.JPG",null,null)
+B.wb=new A.ps("assets/images/profile/imgorg.JPG",null,null)
 B.zP=new A.z(4282797382)
 B.wj=new A.l2(19,"colorBurn")
 B.xW=new A.pI(B.zP,B.wj)

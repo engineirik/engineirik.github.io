@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8c6c637d3337cbe5147887f86301eb6a",
+  "assets/AssetManifest.json": "fad21de791f099b2ec4ef8a62b122165",
 "assets/assets/images/certificates/deltav.jpg": "158fd7361b15515fd671cd95700db86a",
 "assets/assets/images/certificates/ex.jpg": "ea778b1e44a7f90f693d612c309a753d",
 "assets/assets/images/certificates/freecodecamp.png": "ccee11fced2b2670f829dfe75f8c6663",
@@ -12,9 +12,8 @@ const RESOURCES = {
 "assets/assets/images/education/bsc.jpg": "713c17422c5d580febdb4beea834570f",
 "assets/assets/images/education/fagbrev.jpg": "156d5af6d1a43379a8ab388d8af726b4",
 "assets/assets/images/education/msc.jpg": "1084c672f0ac71cb550cf7633b29cb3c",
-"assets/assets/images/profile/engineirik_resume_large.jpg": "412f361465b9cb4cc6f5752268384c35",
-"assets/assets/images/profile/engineirik_resume_small.jpg": "5d2fca1decfb232ecd47587805bbc512",
-"assets/assets/images/profile/img.JPG": "9ac07dfef0846b4377ddcb1803508042",
+"assets/assets/images/profile/engineirik_resume_large2.jpg": "81c21327c0bf7dfb51ac008489da1b55",
+"assets/assets/images/profile/imgorg.JPG": "b9d03194a315f3f0a4aef7ed897aeef2",
 "assets/assets/images/skills/com.jpg": "e719730df62135bbb3ec70ec38a99894",
 "assets/assets/images/skills/learning.jpg": "e30e821406a710139469d81a3dd1d154",
 "assets/assets/images/skills/programming.jpg": "35d27f063428adffbcdc40db84138669",
@@ -40,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5635dbf615993c5f921595adb230d7e1",
-"/": "5635dbf615993c5f921595adb230d7e1",
-"main.dart.js": "52ee6834dcb8eaa1eabfb678927f3d67",
+"index.html": "3e16c21f8d905191ec01cb96d5072121",
+"/": "3e16c21f8d905191ec01cb96d5072121",
+"main.dart.js": "5e11fcde11625ae90c6d2343b18091ab",
 "manifest.json": "f7cbdca62e14e007ed7e2496b15537a1",
 "version.json": "816c8e854daa9f4ab4a6b8db3674d190"
 };
