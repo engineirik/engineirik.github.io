@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "id": "p1",
+            "name": "Master´s Thesis",
+            "title": "Object detection, information extraction and analysis of operator interface images using computer vision and machine learning.",
+            "abstract": "Operator interface display images, often referred to as HMI, contains large amounts of information that can be valuable to obtain. If access to the source code or design files are limited, modern frameworks for object detection and text extraction can be used to obtain this information directly from images. However, obtaining data and training such modern solutions is time consuming, and require a lot of manual work to get started. In this project, traditional computer vision methods have been used to extract objects from images, separated the objects into training data and transferred learned a ResNet model to do multi-label image classification of individual objects. This model, in combination with methods such as sliding window, pyramid scaling and NMS gave the foundation for creating a semi-automated annotation tool that generates training data for more optimized object detection methods, in this case YOLO object detector. The semi- automated annotation tool provides a starting point for engineers to do manual touchup on the training data, and finally export state of the art training images for YOLO. The YOLO model is transfer learned on the annotated data, achieving a satisfying mAP50 score of 95.5%. A third-party library for OCR is used to obtain text information from preprocessed images, postprocessing the text by filtering tag data only, and an algorithm is used to link objects and tags together. The final solution is hosted in a software developed to focus on optimized user interaction, resulting in a excel formatted analysis document available for export to the end user.",
+            "keywords": "Machine learning, Deep learning, Computer vision, Object detection, Image classification, OCR, HMI, YOLO, ResNet, Python.",
+            "link": "https://openarchive.usn.no/usn-xmlui/handle/11250/3074098",
+            "year": "2023",
+            "grade": "A"
+        }
+    ]
+}
