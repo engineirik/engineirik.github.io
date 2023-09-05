@@ -11,8 +11,8 @@
         {
             "id": "p2",
             "name": "Emerson Automation Solutions",
-            "description": "System Engineer",
-            "time": "2020 - 2023"
+            "description": "Systems & Software Engineer",
+            "time": "2020 - Present"
         },
         {
             "id": "p3",
@@ -49,20 +49,14 @@
             "name": "Java Coffeeshop",
             "description": "Barista / Waiter, free time from school and work",
             "time": "2013 - 2015"
-        },
-        {
-            "id": "p9",
-            "name": "Dagbladet",
-            "description": "Paperboy, weekends",
-            "time": "2009"
         }
     ],
     "education": [
         {
             "id": "p10",
             "name": "Master of Science in Industrial IT and Automation",
-            "description": "University of South-Eastern Norway - Grade: B",
-            "time": "2020 - Present"
+            "description": "University of South-Eastern Norway - Grade: A",
+            "time": "2020 - 2023"
         },
         {
             "id": "p11",
@@ -130,26 +124,32 @@
     "duty": [
         {
             "id": "p21",
-            "name": "Class Representative",
-            "description": "M.S IIA - Industry Masterclass",
-            "time": "2020 - Present"
+            "name": "Owner, CEO and Chairman of the Board",
+            "description": "Illing Invest AS",
+            "time": "2023 - Present"
         },
         {
             "id": "p22",
-            "name": "Co-Class Representative",
-            "description": "B.Sc IA - Y-veien Bachelorclass",
-            "time": "2018-2020"
+            "name": "Class Representative",
+            "description": "M.Sc. IIA - Industry Masterclass",
+            "time": "2020 - 2023"
         },
         {
             "id": "p23",
-            "name": "Student Assistant EE1212",
-            "description": "B.Sc IA - Object-Oriented Programming and Databases",
-            "time": "2018-2019"
+            "name": "Co-Class Representative",
+            "description": "B.Sc. IA - Y-veien Bachelorclass",
+            "time": "2018-2020"
         },
         {
             "id": "p24",
+            "name": "Student Assistant EE1212",
+            "description": "B.Sc. IA - Object-Oriented Programming and Databases",
+            "time": "2018-2019"
+        },
+        {
+            "id": "p25",
             "name": "Board Member",
-            "description": "Board Member Aktivt ROM AS",
+            "description": "Aktivt ROM AS",
             "time": "2017 - Present"
         }
     ]
